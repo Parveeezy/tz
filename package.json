@@ -1,0 +1,17 @@
+{
+  "name": "tz",
+  "version": "1.0.0",
+  "description": "Technical Assessment JavaScript for INDEVLABS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Parviz Shirinov",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
